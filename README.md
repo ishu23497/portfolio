@@ -26,7 +26,7 @@ You can view the live website at: [https://ishu23497.github.io/portfolio/](https
 - Open the `index.html` file in a web browser to view the portfolio.
 
 ## Contact
-For any queries or collaboration, feel free to contact me at: [your-email@example.com]
+For any queries or collaboration, feel free to contact me at: [royalmansingh98@.com]
 
 ---
 
